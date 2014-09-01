@@ -1,0 +1,27 @@
+{
+    "success": "true",
+    "msg": "",
+    "data": [
+        {
+            "mandt": "",
+            "email": "Second email",
+            "firstname": "Name 20",
+            "lastname": "Changed",
+            "phone": "98765432"
+        },
+        {
+            "mandt": "",
+            "email": "Third email",
+            "firstname": "Change it AGAIN",
+            "lastname": "Name 30",
+            "phone": "changed number"
+        },
+        {
+            "mandt": "",
+            "email": "email1",
+            "firstname": "Name 10",
+            "lastname": "Name 100",
+            "phone": "12345678"
+        }
+    ]
+}
